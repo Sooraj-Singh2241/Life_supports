@@ -13,7 +13,7 @@ import 'package:scheduler/ui/widgets/task_tile.dart';
 import '../controllers/task_controller.dart';
 import '../models/task.dart';
 import '../services/theme_services.dart';
-
+  
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
 
