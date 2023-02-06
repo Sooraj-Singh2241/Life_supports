@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../theme.dart';
-  
+    
 class NoteField extends StatelessWidget {
   final String hint;
   final TextEditingController? controller;
