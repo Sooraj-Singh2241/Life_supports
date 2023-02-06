@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:scheduler/ui/add_task_bar.dart';
 import '../../models/task.dart';
 import '../theme.dart';
-
+    
 class TaskTile extends StatefulWidget {
   final Task? task;
   const TaskTile(this.task);
