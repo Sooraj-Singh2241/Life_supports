@@ -27,7 +27,7 @@ int selectedalertIndex = -1;
 int _selectedColor = 0;
 String _selectedRepeat = "None";
 List<int> selectedweek = [];
-
+  
 List<String> repeatList = [
   "None",
   "Daily",
