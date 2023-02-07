@@ -16,7 +16,7 @@ const primaryClr = bluishClr;
 const Color darkGreyClr = Color(0xFF121212);
 const Color darkHeaderClr = Color(0xFF424242);
       
-Color customtextthemecolor = Colors.black;
+Color    customtextthemecolor = Colors.black;
 
 class Themes {
   static final light = ThemeData.light().copyWith(
